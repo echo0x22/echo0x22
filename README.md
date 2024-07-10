@@ -18,6 +18,6 @@
 
 <h3 align="left">Statistics:</h3>
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=0x22almostEvil&count_private=true&theme=vue-dark&show_icons=true&hide_border=true", alt="0x22almostEvil's GitHub stats">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x22almostEvil&theme=vue-dark&hide_border=true", alt="0x22almostEvil's Streak">
+ <img src="https://github-readme-stats.vercel.app/api?username=echo0x22&count_private=true&theme=vue-dark&show_icons=true&hide_border=true", alt="0x22almostEvil's GitHub stats">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=echo0x22&theme=vue-dark&hide_border=true", alt="echo0x22's Streak">
 </p>
