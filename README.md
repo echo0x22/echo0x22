@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🥶 Discord - **0x22almostevil**
+- 🥶 Discord - **echo0x22**
 - ✈️ Telegram - [@echo0x22](https://t.me/echo0x22)
 
 <h3 align="left">Languages and Tools:</h3>
